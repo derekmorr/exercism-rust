@@ -1,0 +1,1 @@
+{"rustc":12607826903132327102,"target":7568488326208562432,"profile":15288148974678605576,"local":{"variant":"Precalculated","fields":["0.1.34"]},"features":"None","deps":[["kernel32-sys v0.2.1",6647866957859614277],["libc v0.2.7",11912373217685908414],["winapi v0.2.5",17253055265037991976]],"rustflags":[]}
