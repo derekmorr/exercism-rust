@@ -1,5 +1,5 @@
 pub fn abbreviate(s: &str) -> String {
-    fn process_word(w: &str) -> char {
+    fn process_word(w: &str) -> Vec<char> {
         w.chars().nth(0).unwrap().to_uppercase().nth(0).unwrap()
     }
 
